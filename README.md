@@ -13,12 +13,6 @@
 - **大屏适配**：前端以固定尺寸布局设计，适合在大屏或横向显示器上运行。
 - **本地资源依赖**：项目已包含 jQuery、Swiper、Layui、Ace、PHPExcel、UEditor 等相关资源。
 
-## 在线预览
-
-[http://www.etpt.com.cn/zhanshi/](http://www.etpt.com.cn/zhanshi/)
-
-建议使用 **1920 × 1080** 分辨率查看，以获得更好的展示效果。
-
 ## 技术栈
 
 | 类型 | 技术 |
