@@ -1,4 +1,4 @@
-# 大屏展示平台（Display-Platform）
+# 数智展示平台（Display-Platform）
 
 一个基于 PHP、MySQL、JavaScript 和 Swiper 的大屏内容展示平台，适用于商超、展厅、市场、企业宣传等场景。平台将首页栏目、分类内容和图片/视频素材组织成可轮播的展示页面，并提供后台管理入口维护展示内容。
 
